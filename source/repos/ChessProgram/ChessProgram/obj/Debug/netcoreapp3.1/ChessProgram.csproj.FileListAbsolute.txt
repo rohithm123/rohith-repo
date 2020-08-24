@@ -1,0 +1,13 @@
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.exe
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.deps.json
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.runtimeconfig.json
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.runtimeconfig.dev.json
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.dll
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\bin\Debug\netcoreapp3.1\ChessProgram.pdb
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.AssemblyInfo.cs
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.dll
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.pdb
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.genruntimeconfig.cache
+C:\Users\rohit\source\repos\ChessProgram\ChessProgram\obj\Debug\netcoreapp3.1\ChessProgram.csprojAssemblyReference.cache
