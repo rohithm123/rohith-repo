@@ -1,0 +1,13 @@
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.AssemblyInfo.cs
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.exe
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.deps.json
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.runtimeconfig.json
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.runtimeconfig.dev.json
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.dll
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\bin\Debug\netcoreapp3.1\ArrayAddition.pdb
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.dll
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.pdb
+C:\Users\rohit\source\repos\ArrayAddition\ArrayAddition\obj\Debug\netcoreapp3.1\ArrayAddition.genruntimeconfig.cache
